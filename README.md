@@ -70,9 +70,6 @@ You can add screenshots like this once uploaded to the GitHub repo:
 
 ```markdown
 ![ChronoCrawl in action](images/screenshot1.png)
-```
-
-Place your image in an `images/` folder inside the repo and push it.
 
 ---
 
