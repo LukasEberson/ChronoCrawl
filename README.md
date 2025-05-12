@@ -64,15 +64,6 @@ python main.py
 
 ---
 
-## 🖼️ Screenshots
-
-You can add screenshots like this once uploaded to the GitHub repo:
-
-```markdown
-![ChronoCrawl in action](images/screenshot1.png)
-
----
-
 ## 🧠 Credits
 Made with ❤️ by Lukas Eberson and ChatGPT
 
