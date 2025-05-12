@@ -1,5 +1,4 @@
-# 🛰️ ChronoCrawl
-_The bot that touches the digital pulse_
+# 🛰️ URL Freshness & Website Activity Checker
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
